@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "8backend-apirestful-taboada",
+  "description": "Un proyecto de servidor basado en node.js y express que ofrece una API RESTful de productos.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coriannder/8backEnd-APIRESTFul-Taboada.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coriannder/8backEnd-APIRESTFul-Taboada/issues"
+  },
+  "homepage": "https://github.com/Coriannder/8backEnd-APIRESTFul-Taboada#readme"
+}
